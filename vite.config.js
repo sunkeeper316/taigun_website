@@ -10,7 +10,4 @@ export default defineConfig({
     },
   },
   base: '/taigun_website/',
-  server: {
-    open: true,
-  },
 })

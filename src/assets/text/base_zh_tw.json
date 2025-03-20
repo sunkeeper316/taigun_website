@@ -1,0 +1,19 @@
+{
+    "name": "黃德桑",
+    "autobiography": "我是一名具有超過三年經驗的軟體工程師，專注於 Android、iOS 和物聯網 (IoT) 應用程式開發。我曾整合藍牙和 WiFi 功能，為客戶開發庫，並拓展了使用 Node.js 和 MySQL 進行後端開發的技能。此外，我精通 Flutter 跨平台應用開發，這有助於加速個人項目的進展。我扎實的應用程式工程基礎，搭配對學習新技術與解決複雜問題的熱情，讓我能應對各種挑戰。",
+    "school": "興國管理學院 |資訊管理學系",
+    "skill": [
+        "Flutter",
+        "iOS",
+        "Swift",
+        "Objective-C",
+        "C#",
+        "MS-SQL",
+        "Android",
+        "Java",
+        "Javascript",
+        "Nodejs",
+        "Vue",
+        "MySQL"
+    ]
+}

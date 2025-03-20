@@ -42,7 +42,7 @@
 
                 </div>
                 <div class="absolute inset-0">
-                  <img src="/taigun_demo.JPG" alt="App 截圖展示" class="w-full h-full object-fill">
+                  <img src="/taigun_demo.png" alt="App 截圖展示" class="w-full h-full object-fill">
                 </div>
               </div>
           </div>

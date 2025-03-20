@@ -1,0 +1,26 @@
+{
+    "name": "黄德桑",
+    "autobiography": "我是一名具有超过三年经验的软体工程师，专注于 Android、iOS 和物联网 (IoT) 应用程式开发。我曾整合蓝牙和 WiFi 功能，为客户开发库，并拓展了使用 Node.js 和 MySQL 进行后端开发的技能。此外，我精通 Flutter 跨平台应用开发，这有助于加速个人项目的进展。我扎实的应用程式工程基础，搭配对学习新技术与解决复杂问题的热情，让我能应对各种挑战。",
+    "school": "兴国管理学院 |资讯管理学系",
+    "position": "跨平台行动开发人员",
+    "work": "伟盟系统股份有限公司",
+    "experience": "总年资",
+    "years":"年",
+    "about":"关于",
+    "experiences":"经验",
+    "projects":"项目",
+    "skill": [
+        "Flutter",
+        "iOS",
+        "Swift",
+        "Objective-C",
+        "C#",
+        "MS-SQL",
+        "Android",
+        "Java",
+        "Javascript",
+        "Nodejs",
+        "Vue",
+        "MySQL"
+    ]
+}

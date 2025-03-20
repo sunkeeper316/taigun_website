@@ -5,7 +5,8 @@
       <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="flex justify-between items-center h-16">
           <div class="flex items-center">
-            <div class="text-2xl font-bold text-indigo-600">Taigun</div>
+            <img src="/50.png" alt="Icon" class="h-8 w-8 ml-20" />
+            <div class="text-2xl font-bold ml-3" style="color: #6B43BA;">Taigun</div>
           </div>
           <div class="hidden md:block">
             <div class="flex items-center space-x-4">
@@ -33,12 +34,17 @@
             </div>
           </div>
           <div class="md:w-1/2 flex justify-center md:justify-end">
-            <div class="relative w-64 h-96 md:w-80 md:h-[36rem] bg-indigo-300 rounded-3xl overflow-hidden shadow-2xl border-8 border-white">
-              <!-- 這裡可以放置 App 截圖 -->
-              <div class="absolute inset-0 flex items-center justify-center text-indigo-600 text-lg font-medium">
-                App 截圖展示
+            <div class="relative w-64 h-[36rem]  bg-black rounded-3xl overflow-hidden shadow-2xl border-8 border-gray-800">
+                <div class="absolute top-4 left-1/2 transform -translate-x-1/2 w-12 h-1 bg-gray-600 rounded-full">
+                  
+                </div>
+                <div class="absolute bottom-4 left-1/2 transform -translate-x-1/2 w-24 h-2 bg-gray-600 rounded-full">
+
+                </div>
+                <div class="absolute inset-0">
+                  <img src="/taigun_demo.JPG" alt="App 截圖展示" class="w-full h-full object-fill">
+                </div>
               </div>
-            </div>
           </div>
         </div>
       </div>
@@ -118,7 +124,7 @@
             </ul>
           </div>
           
-          <div class="md:w-1/2">
+          <!-- <div class="md:w-1/2">
             <div class="bg-gray-100 p-6 rounded-xl shadow-md">
               <div class="mb-4 border-b pb-2">
                 <h4 class="font-medium text-lg text-gray-800">熱門討論區</h4>
@@ -150,7 +156,7 @@
                 </li>
               </ul>
             </div>
-          </div>
+          </div> -->
         </div>
       </div>
     </section>
@@ -202,12 +208,12 @@
                 </svg>
                 舉報與封鎖功能
               </li>
-              <li class="flex items-center text-gray-600">
+              <!-- <li class="flex items-center text-gray-600">
                 <svg class="h-5 w-5 text-indigo-500 mr-2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
                   <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd" />
                 </svg>
                 24小時客服支援
-              </li>
+              </li> -->
             </ul>
           </div>
         </div>
@@ -292,5 +298,87 @@
       </div>
     </section>
 
+    <footer class="bg-gray-900 text-white py-12">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="grid grid-cols-1 md:grid-cols-4 gap-8">
+        <!-- 關於 Taigun -->
+        <div>
+          <h3 class="text-lg font-bold mb-4 text-indigo-500">關於 Taigun</h3>
+          <p class="text-sm text-gray-400">
+            Taigun 是一個結合論壇與社交功能的平台，讓用戶分享興趣、參與討論並認識新朋友。
+          </p>
+        </div>
+
+        <!-- 快速連結 -->
+        <div>
+          <h3 class="text-lg font-bold mb-4 text-indigo-500">快速連結</h3>
+          <ul class="space-y-2">
+            <li>
+              <a href="#features" class="text-sm text-gray-400 hover:text-indigo-500 transition duration-300">功能</a>
+            </li>
+            <li>
+              <a href="#forum" class="text-sm text-gray-400 hover:text-indigo-500 transition duration-300">論壇</a>
+            </li>
+            <li>
+              <a href="#community" class="text-sm text-gray-400 hover:text-indigo-500 transition duration-300">社群</a>
+            </li>
+            <li>
+              <a href="#download" class="text-sm text-gray-400 hover:text-indigo-500 transition duration-300">下載</a>
+            </li>
+            <li>
+              <a href="#privacy" class="text-sm text-gray-400 hover:text-indigo-500 transition duration-300">隱私權政策</a>
+            </li>
+          </ul>
+        </div>
+
+        <!-- 聯絡我們 -->
+        <div>
+          <h3 class="text-lg font-bold mb-4 text-indigo-500">聯絡我們</h3>
+          <ul class="space-y-2">
+            <li class="text-sm text-gray-400">Email: taigun0316@gmail.com</li>
+            <li class="text-sm text-gray-400">電話: +886 922 321 678</li>
+          </ul>
+        </div>
+
+        <!-- 社交媒體 -->
+        <!-- <div>
+          <h3 class="text-lg font-bold mb-4 text-indigo-500">社交媒體</h3>
+          <div class="flex space-x-4">
+            <a
+              href="https://github.com/sunkeeper316"
+              class="text-gray-400 hover:text-indigo-500 transition duration-300"
+            >
+              <img src="/assets/img/icon/github.svg" alt="GitHub" class="h-6 w-6" />
+            </a>
+            <a
+              href="https://www.linkedin.com/in/%E5%BE%B7%E6%A1%91-%E9%BB%83-012537183/"
+              class="text-gray-400 hover:text-indigo-500 transition duration-300"
+            >
+              <img src="/assets/img/icon/linkedIn.svg" alt="LinkedIn" class="h-6 w-6" />
+            </a>
+            <a
+              href="tel:+886922321678"
+              class="text-gray-400 hover:text-indigo-500 transition duration-300"
+            >
+              <img src="/assets/img/icon/phone.svg" alt="Phone" class="h-6 w-6" />
+            </a>
+            <a
+              href="mailto:sunkeeper316@gmail.com"
+              class="text-gray-400 hover:text-indigo-500 transition duration-300"
+            >
+              <img src="/assets/img/icon/email.svg" alt="Email" class="h-6 w-6" />
+            </a>
+          </div>
+        </div> -->
+      </div>
+
+      <!-- 版權資訊 -->
+      <div class="border-t border-gray-800 mt-8 pt-8 text-center">
+        <p class="text-sm text-gray-400">
+          &copy; {{ new Date().getFullYear() }} Taigun. All rights reserved.
+        </p>
+      </div>
+    </div>
+  </footer>
     
 </template>

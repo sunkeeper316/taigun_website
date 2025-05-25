@@ -182,25 +182,12 @@
       <p class="text-xl text-center max-w-2xl mx-auto mb-10">開始你的社交之旅，認識志同道合的朋友，參與有趣的討論。</p>
 
       <div class="flex flex-col sm:flex-row justify-center space-y-4 sm:space-y-0 sm:space-x-6">
-        <a href="#" class="bg-black flex items-center justify-center px-6 py-3 rounded-lg hover:bg-gray-900 transition duration-300">
-          <svg class="w-8 h-8 mr-3" viewBox="0 0 24 24" fill="currentColor">
-            <path d="M16.5 3c-1.74 0-3.41.81-4.5 2.09C10.91 3.81 9.24 3 7.5 3 4.42 3 2 5.42 2 8.5c0 3.78 3.4 6.86 8.55 11.54L12 21.35l1.45-1.32C18.6 15.36 22 12.28 22 8.5 22 5.42 19.58 3 16.5 3zm-4.4 15.55l-.1.1-.1-.1C7.14 14.24 4 11.39 4 8.5 4 6.5 5.5 5 7.5 5c1.54 0 3.04.99 3.57 2.36h1.87C13.46 5.99 14.96 5 16.5 5c2 0 3.5 1.5 3.5 3.5 0 2.89-3.14 5.74-7.9 10.05z" />
-          </svg>
-          <div>
-            <div class="text-xs">下載於</div>
-            <div class="text-lg font-semibold">App Store</div>
-          </div>
-        </a>
+        <!-- <a href="https://play.google.com/store/apps/details?id=com.sun.taigun" target="_blank">
+          <img src="/assets/img/icon/app_store.svg" alt="Get it on Google Play" class="h-60 mx-auto" >
+        </a> -->
 
-        <a href="#" class="bg-black flex items-center justify-center px-6 py-3 rounded-lg hover:bg-gray-900 transition duration-300">
-          <svg class="w-8 h-8 mr-3" viewBox="0 0 24 24" fill="currentColor">
-            <path d="M17.523 15.341l.094-.319c.246-.834.428-1.705.508-2.609.132-1.514-.032-2.693-.537-3.894l-.292-.7.245-.736c.337-1.015.753-1.886 1.345-2.829-.489.405-.936.664-1.358.905-.474.27-.91.52-1.328.884l-.289.253-.357-.091c-.534-.135-1.266-.277-2.095-.277-2.582 0-4.866 1.704-5.532 4.113-.361 1.305-.257 2.722.292 3.974.549 1.254 1.452 2.249 2.676 2.876.45.232.935.437 1.471.6.511.155 1.073.271 1.654.271h.01c.88 0 1.729-.216 2.518-.608.468-.232.902-.519 1.275-.855z" />
-            <path d="M6.004 9.855c.875-3.309 3.958-5.715 7.545-5.715.883 0 1.75.153 2.467.337.517-.45 1.05-.756 1.566-1.052.551-.314 1.069-.612 1.59-1.127.058-.057.117-.114.178-.171-.5.816-.916 1.67-1.228 2.611-.137.414-.22.748-.27 1.114.605 1.455.802 2.872.65 4.47-.114 1.292-.481 2.422-.708 3.152C16.29 16.634 13.5 19 10.337 19c-.726 0-1.437-.142-2.114-.335-1.632-.467-2.945-1.474-3.863-2.958-.918-1.484-1.22-3.165-.918-4.612.147-.707.427-1.395.8-2.023-1.244.039-2.373.077-3.183.084L2 9.188c1.148-.028 2.568-.083 4.004-.167z" />
-          </svg>
-          <div>
-            <div class="text-xs">下載於</div>
-            <div class="text-lg font-semibold">Google Play</div>
-          </div>
+        <a href="https://play.google.com/store/apps/details?id=com.sun.taigun" target="_blank">
+          <img src="/assets/img/icon/play_store.svg" alt="Get it on Google Play" class="h-60 mx-auto" >
         </a>
       </div>
     </div>

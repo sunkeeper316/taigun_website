@@ -183,7 +183,6 @@
       </p>
       <ul class="text-gray-700 max-w-2xl mx-auto space-y-3 text-base">
         <li>✅ 您的 Google 電子郵件地址（用於識別帳號）</li>
-        <li>✅ 您的公開基本資料（如暱稱、大頭貼）</li>
       </ul>
       <p class="text-lg text-gray-700 text-center mt-8 max-w-3xl mx-auto">
         我們絕不會儲存或分享您的 Google 密碼，所有授權流程皆依循 Google OAuth 標準進行，並符合 <a href="https://www.taigun.sbs/taigun_website/privacy" target="_blank" class="text-indigo-600 underline">隱私權政策</a>。

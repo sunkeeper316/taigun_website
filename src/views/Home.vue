@@ -175,6 +175,21 @@
       </div>
     </div>
   </section>
+  <section id="privacy-purpose" class="py-16 bg-white">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <h2 class="text-3xl font-bold text-center mb-6 text-gray-800">我們如何使用您的 Google 資料</h2>
+      <p class="text-lg text-gray-700 text-center max-w-3xl mx-auto mb-8">
+        為了提升您的使用體驗，Taigun 會請求透過 Google 登入您的帳號資訊。我們僅使用以下資料：
+      </p>
+      <ul class="text-gray-700 max-w-2xl mx-auto space-y-3 text-base">
+        <li>✅ 您的 Google 電子郵件地址（用於識別帳號）</li>
+        <li>✅ 您的公開基本資料（如暱稱、大頭貼）</li>
+      </ul>
+      <p class="text-lg text-gray-700 text-center mt-8 max-w-3xl mx-auto">
+        我們絕不會儲存或分享您的 Google 密碼，所有授權流程皆依循 Google OAuth 標準進行，並符合 <a href="https://www.taigun.sbs/taigun_website/privacy" target="_blank" class="text-indigo-600 underline">隱私權政策</a>。
+      </p>
+    </div>
+  </section>
 
   <section id="download" class="py-16 bg-gradient-to-r from-indigo-600 to-purple-700 text-white">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">

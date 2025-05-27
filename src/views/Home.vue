@@ -13,7 +13,7 @@
             <a href="#forum" class="px-3 py-2 text-sm font-medium text-gray-700 hover:text-indigo-600">論壇</a>
             <a href="#community" class="px-3 py-2 text-sm font-medium text-gray-700 hover:text-indigo-600">社群</a>
             <a href="#download" class="px-3 py-2 text-sm font-medium text-gray-700 hover:text-indigo-600">下載</a>
-            <a href="https://www.taigun.sbs/taigun_website/privacy" target="_blank" rel="noopener noreferrer" class="px-3 py-2 text-sm font-medium text-gray-700 hover:text-indigo-600">隱私權政策</a>
+            <a href="https://www.taigun.sbs/privacy" target="_blank" rel="noopener noreferrer" class="px-3 py-2 text-sm font-medium text-gray-700 hover:text-indigo-600">隱私權政策</a>
           </div>
         </div>
       </div>
@@ -185,7 +185,7 @@
         <li>✅ 您的 Google 電子郵件地址（用於識別帳號）</li>
       </ul>
       <p class="text-lg text-gray-700 text-center mt-8 max-w-3xl mx-auto">
-        我們絕不會儲存或分享您的 Google 密碼，所有授權流程皆依循 Google OAuth 標準進行，並符合 <a href="https://www.taigun.sbs/taigun_website/privacy" target="_blank" class="text-indigo-600 underline">隱私權政策</a>。
+        我們絕不會儲存或分享您的 Google 密碼，所有授權流程皆依循 Google OAuth 標準進行，並符合 <a href="https://www.taigun.sbs/privacy" target="_blank" class="text-indigo-600 underline">隱私權政策</a>。
       </p>
     </div>
   </section>
@@ -233,7 +233,7 @@
             <a href="#download" class="text-sm text-gray-400 hover:text-indigo-500 transition duration-300">下載</a>
           </li>
           <li>
-            <a href="https://www.taigun.sbs/taigun_website/privacy" target="_blank" rel="noopener noreferrer" class="text-sm text-gray-400 hover:text-indigo-500 transition duration-300">隱私權政策</a>
+            <a href="https://www.taigun.sbs/privacy" target="_blank" rel="noopener noreferrer" class="text-sm text-gray-400 hover:text-indigo-500 transition duration-300">隱私權政策</a>
           </li>
         </ul>
       </div>

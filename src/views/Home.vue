@@ -2,18 +2,18 @@
 
   <nav class="fixed top-0 w-full bg-white bg-opacity-95 shadow-md z-50">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-      <div class="flex justify-between items-center h-16">
+      <div class="flex justify-between items-center h-20">
         <div class="flex items-center">
-          <img src="/120.png" alt="Icon" class="h-8 w-8 ml-20" />
+          <img src="/120.png" alt="Icon" class="h-12 w-12 ml-20" />
           <div class="text-2xl font-bold ml-3" style="color: #6B43BA;">Taigun</div>
         </div>
         <div class="hidden md:block">
           <div class="flex items-center space-x-4">
-            <a href="#features" class="px-3 py-2 text-sm font-medium text-gray-700 hover:text-indigo-600">功能</a>
-            <a href="#forum" class="px-3 py-2 text-sm font-medium text-gray-700 hover:text-indigo-600">論壇</a>
-            <a href="#community" class="px-3 py-2 text-sm font-medium text-gray-700 hover:text-indigo-600">社群</a>
-            <a href="#download" class="px-3 py-2 text-sm font-medium text-gray-700 hover:text-indigo-600">下載</a>
-            <a href="https://www.taigun.sbs/privacy/privacy_policy_zh_tw.html" target="_blank" rel="noopener noreferrer" class="px-3 py-2 text-sm font-medium text-gray-700 hover:text-indigo-600">隱私權政策</a>
+            <a href="#features" class="px-3 py-2 text-base font-medium text-gray-700 hover:text-indigo-600">功能</a>
+            <a href="#forum" class="px-3 py-2 text-base font-medium text-gray-700 hover:text-indigo-600">論壇</a>
+            <a href="#community" class="px-3 py-2 text-base font-medium text-gray-700 hover:text-indigo-600">社群</a>
+            <a href="#download" class="px-3 py-2 text-base font-medium text-gray-700 hover:text-indigo-600">下載</a>
+            <a href="https://www.taigun.sbs/privacy/privacy_policy_zh_tw.html" target="_blank" rel="noopener noreferrer" class="px-3 py-2 text-base font-medium text-gray-700 hover:text-indigo-600">隱私權政策</a>
           </div>
         </div>
       </div>
@@ -207,9 +207,9 @@
     </div>
   </section>
 
-  <footer class="bg-gray-900 text-white py-12">
+<footer class="bg-gray-900 text-white py-12">
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-    <div class="grid grid-cols-1 md:grid-cols-4 gap-8">
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
       <div>
         <h3 class="text-lg font-bold mb-4 text-indigo-500">關於 Taigun</h3>
         <p class="text-sm text-gray-400">

@@ -247,12 +247,6 @@
       </div>
 
       </div>
-
-    <div class="border-t border-gray-800 mt-8 pt-8 text-center">
-      <p class="text-sm text-gray-400">
-        &copy; {{ new Date().getFullYear() }} Taigun. All rights reserved.
-      </p>
-    </div>
   </div>
 </footer>
 

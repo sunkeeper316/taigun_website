@@ -175,7 +175,7 @@
       </div>
     </div>
   </section>
-  <section id="privacy-purpose" class="py-16 bg-white">
+  <!-- <section id="privacy-purpose" class="py-16 bg-white">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <h2 class="text-3xl font-bold text-center mb-6 text-gray-800">我們如何使用您的 Google 資料</h2>
       <p class="text-lg text-gray-700 text-center max-w-3xl mx-auto mb-8">
@@ -188,20 +188,20 @@
         我們絕不會儲存或分享您的 Google 密碼，所有授權流程皆依循 Google OAuth 標準進行，並符合 <a href="https://www.taigun.sbs/privacy/privacy_policy_zh_tw.html" target="_blank" class="text-indigo-600 underline">隱私權政策</a>。
       </p>
     </div>
-  </section>
+  </section> -->
 
-  <section id="download" class="py-16 bg-gradient-to-r from-indigo-600 to-purple-700 text-white">
+  <section id="download" class="py-8 bg-gradient-to-r from-indigo-600 to-purple-700 text-white">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-      <h2 class="text-3xl font-bold text-center mb-8">立即下載 Taigun</h2>
-      <p class="text-xl text-center max-w-2xl mx-auto mb-10">開始你的社交之旅，認識志同道合的朋友，參與有趣的討論。</p>
+      <h2 class="text-3xl font-bold text-center mb-2 leading-tight">立即下載 Taigun</h2>
+      <p class="text-xl text-center max-w-2xl mx-auto mb-2 leading-tight">開始你的社交之旅，認識志同道合的朋友，參與有趣的討論。</p>
 
-      <div class="flex flex-col sm:flex-row justify-center space-y-4 sm:space-y-0 sm:space-x-6">
-        <!-- <a href="https://play.google.com/store/apps/details?id=com.sun.taigun" target="_blank">
-          <img src="/assets/img/icon/app_store.svg" alt="Get it on Google Play" class="h-60 mx-auto" >
-        </a> -->
+      <div class="flex flex-col sm:flex-row justify-center items-center gap-y-1 sm:gap-x-2">
+        <a href="https://apps.apple.com/us/app/taigun/id6747013260" target="_blank" class="block leading-none">
+          <img src="/assets/img/icon/app_store.svg" alt="Get it on Google Play" class="h-60  block" >
+        </a>
 
-        <a href="https://play.google.com/store/apps/details?id=com.sun.taigun" target="_blank">
-          <img src="/assets/img/icon/play_store.svg" alt="Get it on Google Play" class="h-60 mx-auto" >
+        <a href="https://play.google.com/store/apps/details?id=com.sun.taigun" target="_blank" class="block leading-none">
+          <img src="/assets/img/icon/play_store.svg" alt="Get it on Google Play" class="h-60  block " >
         </a>
       </div>
     </div>
